@@ -4,7 +4,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "3.25.2",
+      "id": "3.25.0",
       "releasedAt": 0
     },
     {
@@ -12,7 +12,7 @@
       "releasedAt": 1
     },
     {
-      "id": "3.25",
+      "id": "3.25.2",
       "releasedAt": 2
     }
   ]
