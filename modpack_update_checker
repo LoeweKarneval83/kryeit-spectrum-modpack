@@ -2,6 +2,13 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
-  ]
-}
+{
+        "id": "3.25.1",
+        "releasedAt": 0,
+        "promotions": {
+            "downloads": {
+                "generic": "https://kryeit-spectrum-test.pages.dev/modpack"
+            }
+        }
+    }
+]
