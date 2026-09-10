@@ -1,32 +1,19 @@
 {
   "schemaVersion": 1,
+  "requiresMpuc": 14,
   "hotfixesFormat": null,
   "versions": [
-{
-        "id": "3.25.3",
-        "releasedAt": 3,
-        "promotions": {
-            "downloads": {
-                "generic": "https://kryeit-spectrum-test.pages.dev/modpack"
-            }
-        }
+    {
+      "id": "3.25.2",
+      "releasedAt": 3
     },
     {
-        "id": "3.25.2",
-        "releasedAt": 2,
-        "promotions": {
-            "downloads": {
-                "generic": "https://kryeit-spectrum-test.pages.dev/modpack"
-            }
-        }
+      "id": "3.25.1",
+      "releasedAt": 1
     },
     {
-        "id": "3.25.1",
-        "releasedAt": 1,
-        "promotions": {
-            "downloads": {
-                "generic": "https://kryeit-spectrum-test.pages.dev/modpack"
-            }
-        }
+      "id": "3.25",
+      "releasedAt": 0
     }
-]
+  ]
+}
