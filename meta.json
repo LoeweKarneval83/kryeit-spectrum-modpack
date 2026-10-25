@@ -12,8 +12,17 @@
       "releasedAt": 1
     },
     {
-      "id": "3.25.2",
+      "id": "3.25.2-Dev",
       "releasedAt": 2
+    },
+    {
+      "id": "3.26-Dev",
+      "releasedAt": 3
+    },
+    {
+      "id": "3.5-Dev",
+      "releasedAt": 4
+
     }
   ]
 }
