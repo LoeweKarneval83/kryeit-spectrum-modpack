@@ -5,27 +5,27 @@
   "versions": [
     {
       "id": "3.25.0",
-      "releasedAt": 0
+      "releasedAt": 1783288800
     },
     {
       "id": "3.25.1",
-      "releasedAt": 1
+      "releasedAt": 1783288800
     },
     {
       "id": "3.25.2-DEV",
-      "releasedAt": 2
+      "releasedAt": 1789250400
     },
     {
       "id": "3.26-DEV",
-      "releasedAt": 3
+      "releasedAt": 1790200800
     },
     {
       "id": "3.5-DEV",
-      "releasedAt": 4
+      "releasedAt": 1792533600
     },
     {
       "id": "3.5.1-DEV",
-      "releasedAt": 5
+      "releasedAt": 1793487600
     },
     {
       "id": "3.5.2-DEV",
