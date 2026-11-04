@@ -1,6 +1,15 @@
-+ Simple Custom Early Loading  
-+ More Culling  
-+ spark  
-+ Better Ping Display  
-+ Wavey Capes  
-+ Modpack Update Checker  
+# 🚀 Modpack Update Available!  
+An update has been detected for your profile. Please read the changelog below before updating your instance.
+
+---
+
+## 🛠️ What's Changed in v2.1.0
+
+- {green}[Added]{} Brand new tech tree implementation.  
+- {yellow}[Fixed]{} Massive RAM leak during dimension transit.  
+- {red}[Removed]{} Broken legacy recipe files.  
+
+---
+
+> ### ⚠️ Crucial Warning:
+> Backup your active world save files **before** applying this update to prevent chunk corruption!
