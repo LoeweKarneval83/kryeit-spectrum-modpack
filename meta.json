@@ -12,24 +12,24 @@
       "releasedAt": 1
     },
     {
-      "id": "3.25.2-Dev",
+      "id": "3.25.2-DEV",
       "releasedAt": 2
     },
     {
-      "id": "3.26-Dev",
+      "id": "3.26-DEV",
       "releasedAt": 3
     },
     {
-      "id": "3.5-Dev",
+      "id": "3.5-DEV",
       "releasedAt": 4
     },
     {
-      "id": "3.5.1-Dev",
-      "releasedAt": 4
+      "id": "3.5.1-DEV",
+      "releasedAt": 5
     },
     {
-      "id": "3.5.2-Dev",
-      "releasedAt": 4
+      "id": "3.5.2-DEV",
+      "releasedAt": 6
     }
   ]
 }
